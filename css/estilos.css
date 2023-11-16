@@ -19,7 +19,7 @@ font-size:12px;
 /*Formatação do Paragrafo, do exemplo da Linguagem jQuery.*/
 p{margin-bottom:10px;}
 pre {
-	background: #FEFFAF;
+	background: #e0e421;
 	color: #000;
 	line-height: 5px;
 	margin-bottom: 1px;
@@ -34,7 +34,7 @@ pre {
 width:760px;
 margin:0 auto;
 text-align:left;
---background-color:rgb(255, 208, 0);
+--background-color:rgb(255, 153, 0);
 }
 
 /*Formatação do MENU da 2ª Coluna, "Conheça o CPT.*/
@@ -46,8 +46,8 @@ padding:20px;
 
 /*Formatação do Menu Principal, Links Internos, Home, Contato etc.*/
 #menu{
-background-color: #d3bb00;
-color:#FFFFFF;
+background-color: #ffe943;
+color:#ff0101;
 padding: 15px;
 }
 
