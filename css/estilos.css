@@ -46,7 +46,7 @@ padding:20px;
 
 /*Formatação do Menu Principal, Links Internos, Home, Contato etc.*/
 #menu{
-background-color: rgb(255, 115, 0) 152, 67);
+background-color: red;
 color:#ffffff;
 padding: 15px;
 }
