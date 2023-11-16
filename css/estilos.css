@@ -25,9 +25,10 @@ pre {
 	margin-bottom: 18px;
 	padding: 1em;
 	margin-bottom:20px;
-	margin-top:1px;
+	margin-top:5px;
+	width: 300px;
 	border: #000 1px dotted;
-	font-size: 15pt;
+	font-size: 13pt;
 }
 /* Formatação do MENU Geral da página index.html */
 #geral{
