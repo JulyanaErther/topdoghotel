@@ -19,7 +19,7 @@ font-size:12px;
 /*Formatação do Paragrafo, do exemplo da Linguagem jQuery.*/
 p{margin-bottom:10px;}
 pre {
-	background: #e0e421;
+	background: #fdff73;
 	color: #000;
 	line-height: 5px;
 	margin-bottom: 1px;
@@ -46,8 +46,8 @@ padding:20px;
 
 /*Formatação do Menu Principal, Links Internos, Home, Contato etc.*/
 #menu{
-background-color: #ffe943;
-color:#ff0101;
+background-color: #ffae43;
+color:#ffffff;
 padding: 15px;
 }
 
@@ -104,7 +104,7 @@ float:left;
     
 #destaque_bottom_direita{
 width:170px;
-background-color:#b7b340;
+background-color:#fff834;
 padding:10px;
 float:left;
 margin-left:20px;
