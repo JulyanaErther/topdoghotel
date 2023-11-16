@@ -17,14 +17,14 @@ font-size:12px;
 
 
 /*Formatação do Paragrafo, do exemplo da Linguagem jQuery.*/
-p{margin-bottom:5px;}
+p{margin-bottom:10px;}
 pre {
 	background: #FEFFAF;
 	color: #000;
 	line-height: 5px;
-	margin-bottom: 18px;
+	margin-bottom: 1px;
 	padding: 1em;
-	margin-bottom:20px;
+	margin-bottom:10px;
 	margin-top:5px;
 	border: #000 1px dotted;
 	font-size: 13pt;
