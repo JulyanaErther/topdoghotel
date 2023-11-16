@@ -34,7 +34,7 @@ pre {
 width:760px;
 margin:0 auto;
 text-align:left;
---background-color:rgb(255, 153, 0);
+--background-color:rgb(211, 127, 0);
 }
 
 /*Formatação do MENU da 2ª Coluna, "Conheça o CPT.*/
@@ -46,7 +46,7 @@ padding:20px;
 
 /*Formatação do Menu Principal, Links Internos, Home, Contato etc.*/
 #menu{
-background-color: rgb(255, 116, 2) 152, 67);
+background-color: rgb(255, 115, 0) 152, 67);
 color:#ffffff;
 padding: 15px;
 }
@@ -91,7 +91,7 @@ padding-right:4px;
 
 /*Menu */
 #destaques_bottom{
-color:#FFF;
+color:#ffa8a8;
 clear:both;
 }
 
