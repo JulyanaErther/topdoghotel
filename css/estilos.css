@@ -17,7 +17,7 @@ font-size:12px;
 
 
 /*Formatação do Paragrafo, do exemplo da Linguagem jQuery.*/
-p{margin-bottom:10px;}
+p{margin-bottom:5px;}
 pre {
 	background: #FEFFAF;
 	color: #000;
@@ -26,7 +26,6 @@ pre {
 	padding: 1em;
 	margin-bottom:20px;
 	margin-top:5px;
-	width: 100px;
 	border: #000 1px dotted;
 	font-size: 13pt;
 }
