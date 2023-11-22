@@ -112,3 +112,34 @@ margin-bottom:20px;
 text-align:center;
 }
 
+/*RODAPÉ*/
+#rodape{
+	background-color:#6c6c6c;
+	color:#FFF;
+	clear:both;
+	float:left;
+}
+
+	.rodape_navegacao_itens{
+		width:149px;
+		height:310px;
+		border-right-width:1px;
+		border-right-color:black;
+		border-right-style:solid;
+		padding:20px;
+		float:left;
+	}
+	
+	.rodape_navegacao_itens li{
+		list-style:disc;
+		font-size:12px;
+		margin-bottom:10px;
+	}
+
+#direitos_reservados{
+width:740px;
+text-align:right;
+font-size:10px;
+clear:both;
+padding:10px;
+}
