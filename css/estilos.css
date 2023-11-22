@@ -46,7 +46,7 @@ padding:20px;
 
 /*Formatação do Menu Principal, Links Internos, Home, Contato etc.*/
 #menu{
-background-color: red;
+background-color: rgb(244, 248, 0)(255, 238, 0);
 color:#ffffff;
 padding: 15px;
 }
@@ -91,7 +91,7 @@ padding-right:4px;
 
 /*Menu */
 #destaques_bottom{
-color:#ffa8a8;
+color:#ffffff;
 clear:both;
 }
 
@@ -104,7 +104,7 @@ float:left;
     
 #destaque_bottom_direita{
 width:170px;
-background-color:rgb(190, 186, 41);
+background-color:rgb(190, 180, 41);
 padding:10px;
 float:left;
 margin-left:20px;
