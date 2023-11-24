@@ -97,14 +97,14 @@ clear:both;
 
 #destaque_bottom_esquerda{
 width:470px;
-background-color:#9b0000;
+background-color:#9b3e00;
 padding:40px;
 float:left;
 }
     
 #destaque_bottom_direita{
 width:170px;
-background-color:rgb(216, 143, 9);
+background-color:rgb(223, 134, 0);
 padding:10px;
 float:left;
 margin-left:20px;
@@ -114,7 +114,7 @@ text-align:center;
 
 /*RODAPÉ*/
 #rodape{
-	background-color:#6c6c6c;
+	background-color:#5a5a5a;
 	color:#FFF;
 	clear:both;
 	float:left;
